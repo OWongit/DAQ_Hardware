@@ -4,7 +4,7 @@ A custom Data Acquisition (DAQ) hat designed for the Raspberry Pi. This board in
 
 The system features a robust, low-noise power architecture that manages 24VDC input to power the sensors, the precision analog circuitry, and the Raspberry Pi itself. It utilizes dual 24-bit ADCs communicating over SPI for high-resolution signal digitization.
 
-## ⚡ Features
+## Features
 
 * **Multi-Sensor Interface:** Three 15-position D-sub connectors for attaching RTDs, Load Cells, and Pressure Transducers.
 * **Input Protection:** Every signal line is protected by TVS diode arrays to guard against ESD and surge events.
